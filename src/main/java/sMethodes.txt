@@ -1,0 +1,16 @@
+connection
+send_name
+send_partner
+annonce
+get_card
+send_table
+send_atout
+new_round
+have_to_play
+send_point
+win
+loose
+raz
+lost_connection
+new_game
+send_card
